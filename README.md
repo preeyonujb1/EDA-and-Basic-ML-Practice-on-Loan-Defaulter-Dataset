@@ -17,7 +17,7 @@ Some of the things which I will be implementing in the near future:
 4) Ensembling the models
 5) Filling missing data instead of removing it
 
-Any kind of feedback, detailed or vague would be appreciated. Suggestions on the smallest of things, such as increasing efficiency in creating the train-test split, or a better way of implementing some basic feature.
+Any kind of feedback, detailed or vague would be appreciated. Suggestions on the smallest of things, such as increasing efficiency in creating the train-test split, or a better way of implementing some basic feature will help me.
 
 Thank you.
 
