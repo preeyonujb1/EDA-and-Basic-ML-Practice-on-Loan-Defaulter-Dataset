@@ -20,3 +20,6 @@ Some of the things which I will be implementing in the near future:
 Any kind of feedback, detailed or vague would be appreciated. Suggestions on the smallest of things, such as increasing efficiency in creating the train-test split, or a better way of implementing some basic feature.
 
 Thank you.
+
+Citations for the dataset used:
+B. Baesens, D. Roesch, H. Scheule, Credit Risk Analytics: Measurement Techniques, Applications and Examples in SAS, Wiley, 2016
